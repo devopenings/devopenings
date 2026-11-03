@@ -1,0 +1,193 @@
+{
+ "name": "backend",
+ "site": {
+  "title": "后端岗位看板",
+  "description": "Java、Go、Python、Node.js、PHP、.NET、Rust 等后端 / 服务端岗位，每几小时自动汇总。"
+ },
+ "roles": [
+  {
+   "key": "backend",
+   "label": "后端",
+   "keywords": [
+    "后端",
+    "服务端",
+    "back-end",
+    "backend",
+    "back end",
+    "server-side",
+    "distributed systems",
+    "microservices",
+    "api engineer"
+   ],
+   "weight": 9
+  },
+  {
+   "key": "java",
+   "label": "Java",
+   "keywords": [
+    "java",
+    "spring",
+    "springboot",
+    "spring boot"
+   ],
+   "weight": 8
+  },
+  {
+   "key": "go",
+   "label": "Go",
+   "keywords": [
+    "golang",
+    "go developer",
+    "go engineer",
+    "go 开发",
+    "go语言",
+    "(go)",
+    "go backend"
+   ],
+   "weight": 8
+  },
+  {
+   "key": "python",
+   "label": "Python",
+   "keywords": [
+    "python",
+    "django",
+    "fastapi",
+    "flask"
+   ],
+   "weight": 8
+  },
+  {
+   "key": "node",
+   "label": "Node.js",
+   "keywords": [
+    "node.js",
+    "nodejs",
+    "nestjs"
+   ],
+   "weight": 7
+  },
+  {
+   "key": "php",
+   "label": "PHP",
+   "keywords": [
+    "php",
+    "laravel"
+   ],
+   "weight": 7
+  },
+  {
+   "key": "dotnet",
+   "label": ".NET / C#",
+   "keywords": [
+    ".net",
+    "c#",
+    "asp.net"
+   ],
+   "weight": 7
+  },
+  {
+   "key": "rust",
+   "label": "Rust",
+   "keywords": [
+    "rust"
+   ],
+   "weight": 7
+  },
+  {
+   "key": "cpp",
+   "label": "C++",
+   "keywords": [
+    "c++"
+   ],
+   "weight": 6
+  },
+  {
+   "key": "ruby",
+   "label": "Ruby",
+   "keywords": [
+    "ruby",
+    "rails"
+   ],
+   "weight": 7
+  }
+ ],
+ "specific_roles": [
+  "backend",
+  "java",
+  "go",
+  "python",
+  "node",
+  "php",
+  "dotnet",
+  "rust",
+  "ruby"
+ ],
+ "generic_title": "engineer|developer|programmer|engineering|\\bswe\\b|software|开发|工程师",
+ "exclude_title": [
+  "front-?end",
+  "前端",
+  "\\bios\\b",
+  "android",
+  "flutter",
+  "react native",
+  "移动端",
+  "\\bmobile\\b",
+  "data (?:engineer|scientist|analyst)",
+  "machine learning",
+  "\\bml\\b",
+  "数据工程",
+  "数据科学",
+  "算法",
+  "devops",
+  "\\bsre\\b",
+  "site reliability",
+  "运维",
+  "\\bqa\\b",
+  "tester",
+  "test engineer",
+  "测试工程师",
+  "测试开发",
+  "security engineer",
+  "安全工程师",
+  "appsec",
+  "solidity",
+  "blockchain",
+  "web3",
+  "smart contract",
+  "区块链",
+  "\\bgame\\b",
+  "unity",
+  "unreal",
+  "游戏",
+  "product (?:manager|owner)",
+  "产品经理",
+  "designer",
+  "设计师",
+  "engineering manager",
+  "tech lead",
+  "技术总监",
+  "sales",
+  "marketing",
+  "recruit",
+  "customer",
+  "account (?:executive|manager)",
+  "accountant",
+  "finance",
+  "legal",
+  "writer",
+  "content (?:manager|creator|strategist)",
+  "\\bhr\\b",
+  "human resources",
+  "销售",
+  "市场",
+  "运营",
+  "财务",
+  "行政",
+  "客服",
+  "商务"
+ ],
+ "stack_mismatch": [],
+ "stack_safe_roles": [],
+ "stack_safe_title": ""
+}
